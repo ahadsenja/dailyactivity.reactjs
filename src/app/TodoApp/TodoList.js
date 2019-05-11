@@ -17,7 +17,7 @@ class TodoList extends React.Component {
                                 <tr style={{height: 40}}>
                                     <th style={{width: 140}}>Time</th>
                                     <th style={{width: 500}}>Activity</th>
-                                    <th style={{width: 140}}>Action</th>
+                                    <th style={{width: 180}}>Action</th>
                                 </tr>
                             </thead>
 
