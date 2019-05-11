@@ -1,3 +1,7 @@
+# Daily activity small apps
+I was give the name of this app is Daily Activity. This app is most like Todo app, and this app is very simple.
+`#if its not simple, it will not work`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
