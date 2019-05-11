@@ -60,7 +60,7 @@ class Todo extends React.Component {
 
     render() {
         return (
-            <div>
+            <div className='container'>
                 <TodoForm 
                     dataState={this.state}
                     addTodo={this.addTodo}
