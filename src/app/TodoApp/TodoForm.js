@@ -10,6 +10,10 @@ class TodoForm extends React.Component {
 
         return (
             <div>
+                <div align='center'>
+                    <br/>
+                    <h3><b>Daily activity app</b></h3>
+                </div>
                 <div className='row'>
                     <div className='col-sm-8 offset-3'>
                         <form ref='formulir' className='form-inline'>
